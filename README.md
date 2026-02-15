@@ -92,19 +92,25 @@ Each link always points to the **latest version** of the corresponding config.
 
 | ISP / Network | Badge | Raw Link | Copy Button | QR Code |
 |--------------|--------|----------|-------------|---------|
-| **MCI / LTE** | ![MCI](https://img.shields.io/badge/MCI-Mobile-blue) | `https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt` | <a href="https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt"><img src="https://img.shields.io/badge/Copy-MCI-blue?style=for-the-badge"></a> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt" width="120"> |
-| **IRN / LTE** | ![IRN](https://img.shields.io/badge/IRN-Mobile-green) | `https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt` | <a href="https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt"><img src="https://img.shields.io/badge/Copy-IRN-green?style=for-the-badge"></a> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt" width="120"> |
+| **ALL / LTE** | ![MCI](https://img.shields.io/badge/MCI-Mobile-red) | `https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/ALL.txt#ALL Config` | <a href="https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/ALL.txt#ALL Config"><img src="https://img.shields.io/badge/Copy-ALL-red?style=for-the-badge"></a> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/ALL.txt#ALL Config" width="120"> |
+| **MCI / LTE** | ![MCI](https://img.shields.io/badge/MCI-Mobile-blue) | `https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt#MCI Config` | <a href="https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt#MCI Config"><img src="https://img.shields.io/badge/Copy-MCI-blue?style=for-the-badge"></a> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt#MCI Config" width="120"> |
+| **IRN / LTE** | ![IRN](https://img.shields.io/badge/IRN-Mobile-yellow) | `https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt#IRANCELL Config` | <a href="https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt#IRANCELL Config"><img src="https://img.shields.io/badge/Copy-IRN-yellow?style=for-the-badge"></a> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt#IRANCELL Config" width="120"> |
 
 ---
 
+## 📡 ALL (Mobile / LTE)
+```bash
+https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/ALL.txt#ALL Config
+```
+
 ## 📡 MCI (Mobile / LTE)
 ```bash
-https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt
+https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/MCI.txt#MCI Config
 ```
 
 ## 🛰️ IRN (Mobile / LTE)
 ```bash
-https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt
+https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN.txt#IRANCELL Config
 ```
 
 ---
