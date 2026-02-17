@@ -124,7 +124,7 @@ https://raw.githubusercontent.com/sohrablou/Config-v2/refs/heads/main/config/IRN
 +-----------------------+
 |  Import Config        |
 |        ↓              |
-|  Select JSON File     |
+|  Select TXT File      |
 |        ↓              |
 |  Connection Added ✔️  |
 +-----------------------+
